@@ -59,7 +59,7 @@ params:
         hiddenInSingle: true
     label:
       text: "Nina Nikiforova"
-      icon: "/apple-touch-icon.png"
+      icon: "/icon.png"
       iconHeight: 18
 
 markup:
@@ -73,3 +73,8 @@ markup:
         endLevel: 2
         ordered: false
         startLevel: 2
+
+# max number of characters:
+# * title: 70
+# * description: 120–155
+# * summary: 265
